@@ -12,7 +12,7 @@ import ru.pentragon.homework_8.Homework8;
 
 public class JavaMainApp {
     public static void main(String[] args) {
-
+//для того что бы появились отличия в коде
         System.out.println("HomeWork - Task_1:");
         Homework1.main(null);
         System.out.println("HomeWork - Task_1 - End"+"\n");
