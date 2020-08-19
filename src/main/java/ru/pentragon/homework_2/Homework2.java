@@ -1,7 +1,7 @@
 package ru.pentragon.homework_2;
 
 public class Homework2 {
-
+    //задание 2
     private static byte byteVar;
     private static short shortVar;
     private static int intVar;
