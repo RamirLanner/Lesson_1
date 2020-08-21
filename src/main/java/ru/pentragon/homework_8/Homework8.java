@@ -1,6 +1,7 @@
 package ru.pentragon.homework_8;
 
 public class Homework8 {
+    //задание 8
     public static void YearDefinition(int year){
         boolean yearDiv4 = false;
         boolean yearDiv100 = false;
