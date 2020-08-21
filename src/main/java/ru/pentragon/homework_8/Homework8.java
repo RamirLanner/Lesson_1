@@ -16,7 +16,7 @@ public class Homework8 {
             yearDiv400 = true;
         }
 //можно конечно все условие закинуть в последний IF но мне кажется там будет не читаемо
-        if((yearDiv4 & !yearDiv100) | yearDiv400){
+        if((yearDiv4 && !yearDiv100) || yearDiv400){
             System.out.println("Год "+year+" виокосный");
         }
         else{
